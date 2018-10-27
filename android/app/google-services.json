@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "937401932331",
+    "firebase_url": "https://moweinterviewtask.firebaseio.com",
+    "project_id": "moweinterviewtask",
+    "storage_bucket": "moweinterviewtask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937401932331:android:b81c7a021335e72d",
+        "android_client_info": {
+          "package_name": "com.moweinterviewtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937401932331-5pv2ldc2d5m54and1mv5vjur2uirli2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOPF_jb9WxpCmhCv83fadWjf2GTMTR7Pc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
